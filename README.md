@@ -1,3 +1,15 @@
+Forked from MPL 
+
+http://files.is.tuebingen.mpg.de/classner/gp/
+https://github.com/classner/generating_people
+http://smpl.is.tue.mpg.de/
+HMR 
+https://github.com/akanazawa/hmr#requirements
+https://github.com/mattloper/chumpy
+https://github.com/facebookresearch/DensePose
+http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf
+
+
 # SMPL
 Numpy and Tensorflow implementation of SMPL model. For any questions, feel free to contact me.
 
